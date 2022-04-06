@@ -132,7 +132,7 @@ SSIM_reconstruction_1 = resultQuality_1(1);
 figure; imshowpair(uint8(healthy_leaf_to_model), uint8(reconstructed_leaf_1), 'montage')
 title('Health leaf and reconstructed with the retrieved model')
 
-fprintf('SSSIM model: %1.4f\n', SSIM_reconstruction_1);
+fprintf('SSIM model: %1.4f\n', SSIM_reconstruction_1);
 
 %% Leaf reconstruction evaluation
 % Leaf reconstruction using image blending
@@ -144,7 +144,7 @@ SSIM_reconstruction_2 = resultQuality_2(1);
 figure; imshowpair(uint8(healthy_leaf_to_model), uint8(reconstructed_leaf_2), 'montage')
 title('Health leaf and reconstructed with image blending')
 
-fprintf('SSSIM model: %1.4f\n', SSIM_reconstruction_2);
+fprintf('SSIM blending: %1.4f\n', SSIM_reconstruction_2);
 
 %% Leaf reconstruction evaluation
 % Leaf reconstruction using image inpainting
@@ -155,7 +155,7 @@ SSIM_reconstruction_3 = resultQuality_3(1);
 
 figure; imshowpair(uint8(healthy_leaf_to_model), uint8(reconstructed_leaf_3), 'montage')
 title('Health leaf and reconstructed with inpaint')
-fprintf('SSSIM model: %1.4f\n', SSIM_reconstruction_3);
+fprintf('SSIM inpaint: %1.4f\n', SSIM_reconstruction_3);
 
 
 
