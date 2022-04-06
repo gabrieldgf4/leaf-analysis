@@ -1,0 +1,46 @@
+The "Fast Inpainting Software" comes with the paper
+
+    "Fast Image Inpainting Based on Coherence Transport"
+    by Folkmar Bornemann and Tom März, March 7, 2006
+
+    Zentrum Mathematik M3
+    Technische Universität München
+    80290 München, Germany
+    bornemann@ma.tum.de
+
+Copyright Notice
+----------------
+
+This software is provided for non-commercial use only.
+See the license conditions and the warranty conditions.
+
+Copyright © Folkmar Bornemann / Thomas März 2006
+
+License
+-------
+
+The use of the "Fast Inpainting Software" and its Matlab interface is
+hereby granted free of charge for an unlimited time, provided the
+following rules are accepted and applied:
+
+   1. You may use or modify this code for your own non commercial and
+        non violent purposes.
+   2. The code may not be re-distributed without the consent of the
+        authors.
+   3. The copyright notice, statement of authorship, and the paper
+        "Fast Image Inpainting Based on Coherence Transport" by the
+        authors must appear in all copies.
+   4. You accept the warranty conditions stated below.
+   5. In case you intend to use the code commercially, we oblige you
+        to sign an according licence agreement with the authors.
+
+Warranty
+--------
+
+This code has been tested up to a certain level. Defects and
+weaknesses, which may be included in the code, do not establish
+any warranties by the authors.
+
+The authors do not make any warranty, express or implied, or assume
+any liability or responsibility for the use, acquisition or
+application of this software.

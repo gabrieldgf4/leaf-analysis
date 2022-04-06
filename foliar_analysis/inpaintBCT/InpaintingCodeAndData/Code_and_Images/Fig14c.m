@@ -1,0 +1,1 @@
+experiment('parrot',[14 250 1.2 7]);
