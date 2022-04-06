@@ -1,7 +1,7 @@
 # leaf-analysis
 It is a method for leaf analysis which provides estimation of defoliation level, detection and segmentation of insect bites, and leaf reconstruction.
 
-Original papers URL: [coming soon](coming soon), 
+Original papers URL: 
                      [https://ieeexplore.ieee.org/document/9529869](https://ieeexplore.ieee.org/document/9529869)
 
 If you use this project, cite:
@@ -44,3 +44,6 @@ You can download the code by:
 
     git clone https://github.com/gabrieldgf4/leaf-analysis.git
     cd leaf-analysis
+    
+    Then, open MATLAB and execute the file "test.m"
+    
