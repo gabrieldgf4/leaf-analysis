@@ -3,9 +3,9 @@ It is a method for leaf analysis which provides estimation of defoliation level,
 
 Original papers URL: 
 
-                     [https://www.sciencedirect.com/science/article/pii/S2772375522000211](https://www.sciencedirect.com/science/article/pii/S2772375522000211)
+                     [SAT](https://www.sciencedirect.com/science/article/pii/S2772375522000211)
                      
-                     [https://ieeexplore.ieee.org/document/9529869](https://ieeexplore.ieee.org/document/9529869)
+                     [COMPSAC](https://ieeexplore.ieee.org/document/9529869)
 
 If you use this project, cite:
 
