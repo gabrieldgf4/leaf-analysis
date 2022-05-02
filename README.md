@@ -2,6 +2,9 @@
 It is a method for leaf analysis which provides estimation of defoliation level, detection and segmentation of insect bites, and leaf reconstruction.
 
 Original papers URL: 
+
+                     [https://www.sciencedirect.com/science/article/pii/S2772375522000211](https://www.sciencedirect.com/science/article/pii/S2772375522000211)
+                     
                      [https://ieeexplore.ieee.org/document/9529869](https://ieeexplore.ieee.org/document/9529869)
 
 If you use this project, cite:
@@ -16,10 +19,10 @@ If you use this project, cite:
                   Soares, Fabrizzio},
         Title = {Automatic Detection of Insect Predation through the Segmentation of Damaged Leaves},
         journal={Smart Agricultural Technology},
-        volume={},
-        number={},
-        pages={},
-        doi={},
+        volume={2},
+        pages={100056},
+        doi={https://doi.org/10.1016/j.atech.2022.100056},
+        url = {https://www.sciencedirect.com/science/article/pii/S2772375522000211},
         year={2022}
     }
     
