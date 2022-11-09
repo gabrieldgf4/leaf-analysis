@@ -3,13 +3,36 @@ It is a method for leaf analysis which provides estimation of defoliation level,
 
 Original papers URL: 
 
-[https://www.sciencedirect.com/science/article/pii/S2772375522000211](https://www.sciencedirect.com/science/article/pii/S2772375522000211)          
+[https://www.mdpi.com/2073-4395/12/11/2769/htm](https://www.mdpi.com/2073-4395/12/11/2769/htm)
+
+[https://www.sciencedirect.com/science/article/pii/S2772375522000211](https://www.sciencedirect.com/science/article/pii/S2772375522000211)    
+
 [https://ieeexplore.ieee.org/document/9529869](https://ieeexplore.ieee.org/document/9529869)
 
 If you use this project, cite:
 
+    @Article{agronomy12112769,
+        AUTHOR = {Vieira, Gabriel S. and 
+                 Fonseca, Afonso U. and 
+                 Rocha, Bruno M. and Sousa, 
+                 Naiane M. and Ferreira, 
+                 Julio C. and                         
+                 Felix, Juliana P. and 
+                 Lima, Junio C. and 
+                 Soares, Fabrizzio},
+        TITLE = {Insect Predation Estimate Using Binary Leaf Models and Image-Matching Shapes},
+        JOURNAL = {Agronomy},
+        VOLUME = {12},
+        YEAR = {2022},
+        NUMBER = {11},
+        ARTICLE-NUMBER = {2769},
+        URL = {https://www.mdpi.com/2073-4395/12/11/2769},
+        ISSN = {2073-4395}
+    }
+   
+    
     @article{gabrielSAT2022,
-        Author = Author={Vieira, Gabriel and 
+        Author = {Vieira, Gabriel and 
                   Rocha, Bruno and
                   Fonseca, Afonso and
                   Sousa, Naiane and
@@ -25,10 +48,9 @@ If you use this project, cite:
         year={2022}
     }
     
-and
 
     @INPROCEEDINGS{gabrielCOMPSAC2021,
-        Author = Author={Vieira, Gabriel and 
+        Author = {Vieira, Gabriel and 
                   Sousa, Naiane and
                   Rocha, Bruno and
                   Fonseca, Afonso and
